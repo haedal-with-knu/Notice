@@ -2,12 +2,12 @@
 
 해달 공지방에 올라온 컨텐츠들을 정리해놓은 공간입니다.
 
-[해달 내부 관련 컨텐츠]()
+[해달 내부 관련 컨텐츠](https://github.com/haedal-with-knu/Notice/blob/master/README.md#%ED%95%B4%EB%8B%AC-%EB%82%B4%EB%B6%80)
 
-[해달 외부 관련 컨텐츠]()
+[해달 외부 관련 컨텐츠](https://github.com/haedal-with-knu/Notice/blob/master/README.md#%ED%95%B4%EB%8B%AC-%EC%99%B8%EB%B6%80)
 
 
-
+　    
 
 
 ## 해달 내부
@@ -1102,7 +1102,9 @@ H AI는 인공지능 트랙입니다. 딥러닝, 머신러닝 지식을 습득�
 
 </div>
 </details>
-
+　    
+     　    
+          　    
 ## 해달 외부
 
 <details>
